@@ -17,4 +17,17 @@ body{
     width: 100%;
     display: flex;
     justify-content: center;
+    margin-top: 200px;
+
+    &-card{
+        display: flex;
+        width: 650px;
+        height: 500px;
+        background-color: var(--White);
+        border-radius: 15px;
+        overflow: hidden;
+    }
+    &-img{
+        width: 350px;
+    }
 }

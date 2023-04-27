@@ -17,4 +17,16 @@ body {
   width: 100%;
   display: flex;
   justify-content: center;
+  margin-top: 200px;
+}
+.main-container-card {
+  display: flex;
+  width: 650px;
+  height: 500px;
+  background-color: var(--White);
+  border-radius: 15px;
+  overflow: hidden;
+}
+.main-container-img {
+  width: 350px;
 }/*# sourceMappingURL=styles.css.map */
